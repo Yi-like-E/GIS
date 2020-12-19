@@ -1,6 +1,3 @@
-# Course: CODG211
-# Date: 2020/06/26
-# Name: YiHsun Lee
 # Description: Using twitter API to create a tweet crawler to get a stream of tweets with a certain keyword and cooperate with cartopy and matplotlib to creat a map with collected tweets.
 
 #import system modules
