@@ -1,4 +1,4 @@
-# Description: Using twitter API to create a tweet crawler to get a stream of tweets with a certain keyword and cooperate with cartopy and matplotlib to creat a map with collected tweets.
+# Description: Using twitter API to create a tweet crawler to get a stream of tweets with the keyword "friday" and creat a map with red dot showing where the tweet was being tweeted.
 
 #import system modules
 import tweepy
