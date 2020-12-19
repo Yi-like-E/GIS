@@ -1,8 +1,8 @@
 # GIS
 
 
-GIS Certificate Program :heavy_check_mark:
+GIS Certificate Program :earth_americas:
 
 Ryerson University :mortar_board:
 
-2019 - 2020 :earth_americas:
+2019 - 2020 :heavy_check_mark:
