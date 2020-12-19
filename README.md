@@ -1,5 +1,5 @@
 # GIS
-GIS related work :earth_americas:
+:earth_americas:
 ----------------------------------
 
 GIS Certificate Program :heavy_check_mark:
